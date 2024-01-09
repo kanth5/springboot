@@ -17,7 +17,9 @@ public class RecommendationsController {
 
         return Arrays.asList(new Movie(1, "Ice Age", 7.0),
                 new Movie(2, "Happy Feet", 6.4),
-                new Movie(3, "Shark Tales", 6.0) );
+                new Movie(3, "Shark Tales", 6.0),
+                new Movie(4,"Superman",7.5),
+                new Movie(5,"Batman",6.2));
     }
 
 }
